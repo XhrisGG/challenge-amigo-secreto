@@ -60,3 +60,5 @@ function sortearAmigo() {
     let resultadoElemento = document.getElementById("resultado")
     resultadoElemento.innerHTML = `<li>El amigo secreto es: <strong>${amigoSecreto}</strong></li>`
 }
+
+// Por XhrisGG
